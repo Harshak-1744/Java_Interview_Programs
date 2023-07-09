@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Factroial",
+            "request": "launch",
+            "mainClass": "Factroial",
+            "projectName": "Java_Interview_Programs_d67e2dee"
+        },
+        {
+            "name": ".NET Core Attach",
+            "request": "attach"
+        }
+    ]
+}
