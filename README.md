@@ -2,3 +2,4 @@
 
 * Factroial
 * Palindrome number
+* Number Swap
