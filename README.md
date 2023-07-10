@@ -3,3 +3,4 @@
 * Factroial
 * Palindrome number
 * Number Swap
+* Star Pattern
