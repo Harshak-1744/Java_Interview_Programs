@@ -4,3 +4,4 @@
 * Palindrome number
 * Number Swap
 * Star Pattern
+* Array Sum
