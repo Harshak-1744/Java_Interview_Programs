@@ -4,3 +4,5 @@
 * Palindrome number
 * Number Swap
 * Star Pattern
+* Array Sum
+* Array Reverse
