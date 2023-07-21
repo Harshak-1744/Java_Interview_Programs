@@ -8,25 +8,15 @@ public class Leap_year {
         int number = sc.nextInt();
        
 
-        if (number % 4 == 0) 
+        if ((number % 4 == 0) && (number %100 != 0) || (number % 400 == 0))
         {
-            if (number % 100 == 0) 
-            {
-                if (number % 400 == 0) 
-                {
-                    System.out.println("yes");
-                } else 
-                {
-                    System.out.println("no");
-                }
-            } else 
-            {
-                System.out.println("yes");
-            }
-        } else 
-        {
-            System.out.println("no");
+            System.out.println(number + " is a Leap Year");
         }
+        else 
+        {
+            System.out.println(number + " is not a Leap Year");
+        }
+        
 
         sc.close();
     }
