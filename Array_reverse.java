@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Array_reverse 
 {
     public static void main(String [] args)
