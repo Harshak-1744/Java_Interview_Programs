@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Java_Interview_Programs_d67e2dee"
+        },
+        {
+            "type": "java",
             "name": "Leap_year",
             "request": "launch",
             "mainClass": "Leap_year",
