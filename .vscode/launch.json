@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Function_table",
+            "request": "launch",
+            "mainClass": "Function_table",
+            "projectName": "Java_Interview_Programs_d67e2dee"
+        },
+        {
+            "type": "java",
             "name": "Array_reverse",
             "request": "launch",
             "mainClass": "Array_reverse",
