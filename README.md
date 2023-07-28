@@ -7,3 +7,4 @@
 * Array Sum
 * Array Reverse
 * Leap Year
+* Table using Function
